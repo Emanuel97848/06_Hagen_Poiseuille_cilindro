@@ -1,0 +1,1 @@
+Este projeto trata da aplicação do Método dos Elementos Finitos à formulação função corrente-vorticidade.
